@@ -7,6 +7,7 @@ public class UserRegistrationMain {
             // Method calling
             validateUserInfo.checkFirstName();
             validateUserInfo.checkLastName();
+            validateUserInfo.checkEmail();
         }
     }
 
