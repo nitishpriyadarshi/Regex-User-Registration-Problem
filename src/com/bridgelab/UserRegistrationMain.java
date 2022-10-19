@@ -10,6 +10,7 @@ public class UserRegistrationMain {
             validateUserInfo.checkEmail();
             validateUserInfo.checkMobileNumber();
             validateUserInfo.checkPassword();
+            validateUserInfo.checkSampleEmail();
 
         }
     }
