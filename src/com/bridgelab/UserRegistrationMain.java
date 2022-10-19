@@ -9,6 +9,7 @@ public class UserRegistrationMain {
             validateUserInfo.checkLastName();
             validateUserInfo.checkEmail();
             validateUserInfo.checkMobileNumber();
+            validateUserInfo.checkPassword();
 
         }
     }
